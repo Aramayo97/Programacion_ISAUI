@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Practico2\Practico2\bin\Debug\net10.0\Practico2.exe
+C:\Users\yamil\source\repos\Practico2\Practico2\bin\Debug\net10.0\Practico2.deps.json
+C:\Users\yamil\source\repos\Practico2\Practico2\bin\Debug\net10.0\Practico2.runtimeconfig.json
+C:\Users\yamil\source\repos\Practico2\Practico2\bin\Debug\net10.0\Practico2.dll
+C:\Users\yamil\source\repos\Practico2\Practico2\bin\Debug\net10.0\Practico2.pdb
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.dll
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\refint\Practico2.dll
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.pdb
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\Practico2.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Practico2\Practico2\obj\Debug\net10.0\ref\Practico2.dll
