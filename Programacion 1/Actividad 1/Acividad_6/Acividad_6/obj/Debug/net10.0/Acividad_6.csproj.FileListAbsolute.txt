@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\bin\Debug\net10.0\Acividad_6.exe
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\bin\Debug\net10.0\Acividad_6.deps.json
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\bin\Debug\net10.0\Acividad_6.runtimeconfig.json
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\bin\Debug\net10.0\Acividad_6.dll
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\bin\Debug\net10.0\Acividad_6.pdb
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.dll
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\refint\Acividad_6.dll
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.pdb
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\Acividad_6.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Acividad_6\Acividad_6\obj\Debug\net10.0\ref\Acividad_6.dll
