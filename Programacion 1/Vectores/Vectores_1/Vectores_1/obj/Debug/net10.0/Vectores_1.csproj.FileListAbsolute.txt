@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\bin\Debug\net10.0\Vectores_1.exe
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\bin\Debug\net10.0\Vectores_1.deps.json
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\bin\Debug\net10.0\Vectores_1.runtimeconfig.json
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\bin\Debug\net10.0\Vectores_1.dll
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\bin\Debug\net10.0\Vectores_1.pdb
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.dll
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\refint\Vectores_1.dll
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.pdb
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\Vectores_1.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Vectores_1\Vectores_1\obj\Debug\net10.0\ref\Vectores_1.dll
