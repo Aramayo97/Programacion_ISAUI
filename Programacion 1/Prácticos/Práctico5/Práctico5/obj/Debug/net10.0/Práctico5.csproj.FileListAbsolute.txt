@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Práctico5\Práctico5\bin\Debug\net10.0\Práctico5.exe
+C:\Users\yamil\source\repos\Práctico5\Práctico5\bin\Debug\net10.0\Práctico5.deps.json
+C:\Users\yamil\source\repos\Práctico5\Práctico5\bin\Debug\net10.0\Práctico5.runtimeconfig.json
+C:\Users\yamil\source\repos\Práctico5\Práctico5\bin\Debug\net10.0\Práctico5.dll
+C:\Users\yamil\source\repos\Práctico5\Práctico5\bin\Debug\net10.0\Práctico5.pdb
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.dll
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\refint\Práctico5.dll
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.pdb
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\Práctico5.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Práctico5\Práctico5\obj\Debug\net10.0\ref\Práctico5.dll
