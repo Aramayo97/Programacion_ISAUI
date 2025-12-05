@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\bin\Debug\net10.0\Actividad_2.exe
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\bin\Debug\net10.0\Actividad_2.deps.json
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\bin\Debug\net10.0\Actividad_2.runtimeconfig.json
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\bin\Debug\net10.0\Actividad_2.dll
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\bin\Debug\net10.0\Actividad_2.pdb
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.dll
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\refint\Actividad_2.dll
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.pdb
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\Actividad_2.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Actividad_2\Actividad_2\obj\Debug\net10.0\ref\Actividad_2.dll
