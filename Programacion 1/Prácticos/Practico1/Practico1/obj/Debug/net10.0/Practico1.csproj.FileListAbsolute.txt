@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Practico1\Practico1\bin\Debug\net10.0\Practico1.exe
+C:\Users\yamil\source\repos\Practico1\Practico1\bin\Debug\net10.0\Practico1.deps.json
+C:\Users\yamil\source\repos\Practico1\Practico1\bin\Debug\net10.0\Practico1.runtimeconfig.json
+C:\Users\yamil\source\repos\Practico1\Practico1\bin\Debug\net10.0\Practico1.dll
+C:\Users\yamil\source\repos\Practico1\Practico1\bin\Debug\net10.0\Practico1.pdb
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.dll
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\refint\Practico1.dll
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.pdb
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\Practico1.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Practico1\Practico1\obj\Debug\net10.0\ref\Practico1.dll
