@@ -1,0 +1,14 @@
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\bin\Debug\net10.0\Actividad_13.exe
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\bin\Debug\net10.0\Actividad_13.deps.json
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\bin\Debug\net10.0\Actividad_13.runtimeconfig.json
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\bin\Debug\net10.0\Actividad_13.dll
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\bin\Debug\net10.0\Actividad_13.pdb
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.AssemblyInfo.cs
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.dll
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\refint\Actividad_13.dll
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.pdb
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\Actividad_13.genruntimeconfig.cache
+C:\Users\yamil\source\repos\Actividad_13\Actividad_13\obj\Debug\net10.0\ref\Actividad_13.dll
